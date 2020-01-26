@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Container = styled.View`
-  height: 100px;
+  height: 50px;
 `;
 
 export const SubContainer = styled.View`
